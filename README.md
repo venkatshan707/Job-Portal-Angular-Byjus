@@ -1,11 +1,13 @@
-      Thank you for allowing me to do the Front end challenge.  I felt happy while doing the challenge. I apologize for my incompleted project submission. I have tried so many ways to get a JSON file from a link, which is given by you. But I failed with your link. While trying with other sample JSON endpoints, I got information from that file. I think the problem on my side. 
-      I finished my UI part, I hope you will like that. I am very interesting to attend a personal interview .And I am waiting for your positive response. Thank you for reading :) 
-
-
-
-
-
-
+Thank you for allowing me to do the Front end challenge. 
+I felt happy while doing the challenge. I apologize for my incompleted project submission.
+I have tried so many ways to get a JSON file from a link, which is given by you. But I failed with your link. 
+While trying with other sample JSON endpoints, I got information from that file. 
+I think the problem on my side. 
+      
+I finished my UI part, I hope you will like that. 
+I am very interesting to attend a personal interview .
+And I am waiting for your positive response.
+Thank you for reading :) 
 
 # Jobsportal
 
